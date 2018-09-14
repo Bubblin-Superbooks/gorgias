@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Gorgias",
-  "type": "text"
+  "type": "text",
+  "book_id": 662
 }
